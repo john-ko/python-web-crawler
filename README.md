@@ -1,6 +1,3 @@
-# test 
-sdffdsa
-
 crawler4py
 ==========
 A web crawler in Python
